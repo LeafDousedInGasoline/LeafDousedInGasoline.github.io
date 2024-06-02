@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pönk og Hardcore
-permalink: /PunkAndHardcore
+permalink: /punkandhardcore
 ---
 
 Pönk er tegund af [rokki](/rokk) sem leggur mikla áheyrslu á [pólitík](/punkandpolitics) sem og tilfinningar, sérstaklega óánægju og reiði.

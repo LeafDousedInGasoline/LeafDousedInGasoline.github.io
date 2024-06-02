@@ -4,7 +4,7 @@ title: Fatastill Pönkara
 permalink: /punkandclothing
 ---
 ![Pasted image 20240531112238.png](/assets/img/Pasted%20image%2020240531112238.png)
-![[Pasted image 20240531112238.png]]
+
 
 Pönkarar hafa mjög einkennandi fatastíl sem hafa nær alltaf ákveðin tengsl við {pólítík}(/punkandpolictics). Vivienne Westwood átti mikin hlut í þróun þessa fatastíls á sjöunda áratugi síðustu aldar og fatabúðin hennar var staður þar sem að pönkarar hittust gjarnan.
 

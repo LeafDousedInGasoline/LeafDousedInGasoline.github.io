@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pönk og Pólitík
-permalink: /punkandðolitics
+permalink: /punkandpolitics
 ---
 
 ![Pasted image 20240531112700.png](/assets/img/Pasted%20image%2020240531112700.png)
