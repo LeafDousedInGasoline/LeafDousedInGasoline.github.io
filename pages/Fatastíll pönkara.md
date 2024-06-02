@@ -6,7 +6,7 @@ permalink: /punkandclothing
 ![Pasted image 20240531112238.png](/assets/img/Pasted%20image%2020240531112238.png)
 
 
-Pönkarar hafa mjög einkennandi fatastíl sem hafa nær alltaf ákveðin tengsl við {pólítík}(/punkandpolictics). Vivienne Westwood átti mikin hlut í þróun þessa fatastíls á sjöunda áratugi síðustu aldar og fatabúðin hennar var staður þar sem að pönkarar hittust gjarnan.
+Pönkarar hafa mjög einkennandi fatastíl sem hafa nær alltaf ákveðin tengsl við [pólítík](/punkandpolictics). Vivienne Westwood átti mikin hlut í þróun þessa fatastíls á sjöunda áratugi síðustu aldar og fatabúðin hennar var staður þar sem að pönkarar hittust gjarnan.
 
 Fötin sem pönkarar klæddust voru næstum því aldrei keypt, heldur voru notuð gömul föt, oft með þó nokkrum götum, sem voru svo saumuð saman með ódýru garni, eins og t.d. tannþræði. Flest allir pönkarar saumuðu gadda á jakkana sína og oft er bætt við nælum, bótum og keðjum.
 
