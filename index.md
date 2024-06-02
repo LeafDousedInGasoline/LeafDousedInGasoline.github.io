@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Home
+layout: page
+title: Pönkið er ekki dautt, það bara á að lykta svona
+permalink: /
 ---
 # Lokaverkefni í Kársnesskóla.
 
