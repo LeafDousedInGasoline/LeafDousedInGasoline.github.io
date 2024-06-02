@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
+- {name: 'Pönk og Hardcore',   url: 'punkandhardcore'}
 - {name: 'Rokk',               url: 'rokk'}
 - {name: 'Pólitík',            url: 'punkandpolitics'}
-- {name: 'Pönk og Hardcore',   url: 'punkandhardcore'}
 - {name: 'Fatastíll',          url: 'punkandclothing'}
 - {name: 'Um Höfundinn',       url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
@@ -25,8 +25,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Áfram'
+  previous_page: 'Afturábak'
 
 sharing_button_prompt: 'Feel free to share!'
 
