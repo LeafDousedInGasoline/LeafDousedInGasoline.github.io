@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pönkið er ekki dautt, það bara á að lykta svona
+title: Pönk
 permalink: /
 ---
 # Lokaverkefni í Kársnesskóla.
