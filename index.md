@@ -3,16 +3,6 @@ layout: page
 title: Pönk
 permalink: /
 ---
-# Lokaverkefni í Kársnesskóla.
+# Lokaverkefni í Kársnesskóla
 
-ÞEtta er Lokaverkefnið mitt það er voðalega smart
-
-## smellið á hlekkina
-
-það er rosa gaman að vera til.
-
-* Já
-  * Já já
-    * Já Já Já
-
-Nei
+## þessi vefsíða fjallar um pönk og seinna meir fleiri tegundir af tónlist sem koma út frá rokki
