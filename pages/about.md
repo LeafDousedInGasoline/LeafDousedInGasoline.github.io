@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Um Mig
+title: Um mig
 permalink: /about
 ---
 
