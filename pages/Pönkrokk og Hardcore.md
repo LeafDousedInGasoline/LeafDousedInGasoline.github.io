@@ -10,4 +10,4 @@ Pönk þróaðist á annan máta í Bandaríkjunum en í Bretlandi. Í Bretlandi
 
 Hver er munurinn á Pönki og Hardcore? 
 
-Hardcore er spilað hraðar og er ákafara, svo er líka munur á textanum. Í Pönki er oft lögð gagnrýni á ríkisstjórnina og er lögð mikil áheyrsla á alls skonar félagsleg málefni svo sem ofbeldi af höndum lögreglunnar, heimilisleysi, byltingu gegn ríkisstjórninni og hatur á nýnasistum. Í Hardcore er lgð áheyrsla á mjög svipuð málefni, en það er hins vegar fjallað minna um byltingu, frekar er lögð áheyrsla á andúð á ofbeldi. 
+Hardcore er spilað hraðar og er ákafara, svo er líka munur á textanum. Í Pönki er oft lögð gagnrýni á ríkisstjórnina og er lögð mikil áheyrsla á alls skonar félagsleg málefni svo sem ofbeldi af höndum lögreglunnar, heimilisleysi, byltingu gegn ríkisstjórninni og hatur á nýnasistum. Í Hardcore er lögð áheyrsla á mjög svipuð málefni, en það er hins vegar fjallað minna um byltingu, frekar er lögð áheyrsla á andúð á ofbeldi. 
