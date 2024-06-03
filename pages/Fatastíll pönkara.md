@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fatastill Pönkara
+title: Fatastíll Pönkara
 permalink: /punkandclothing
 ---
 ![Pasted image 20240531112238.png](/assets/img/Pasted%20image%2020240531112238.png)
