@@ -4,7 +4,7 @@ title: Pönk og Hardcore
 permalink: /punkandhardcore
 ---
 
-Pönk er tegund af [rokki](/rokk) sem leggur mikla áheyrslu á [pólitík](/punkandpolitics) sem og tilfinningar, sérstaklega óánægju og reiði.
+Pönk er tegund tónlistar sem rekja má til [rokks](/rokk). [Pólitík](/punkandpolitics) og tilfinningar, sérstaklega reiði og óánægja gagnvart ríkjandi öflum í samfélaginu, spila lykilhlutverk í textasmiðju margra pönk hljómsveita.
 
 Pönk þróaðist öðruvísi í Bandaríkjunum en í Bretlandi. Í Bretlandi voru það fátæku krakkarnir sem voru ekkert sérlega ánægðir með ríkisstjórnina sem gerðu Pönk, í Bandaríkjunum voru það ríku krakkarnir á vesturströndinni sem gerðu Hardcore.
 
